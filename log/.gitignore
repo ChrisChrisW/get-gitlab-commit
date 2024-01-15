@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+
+# ignore files in folder
+data/*
+output/*
+
+# ...but keep the folder
+!data/.gitkeep
+!output/.gitkeep
